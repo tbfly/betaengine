@@ -41,6 +41,9 @@ If no device-name is provided then the default name "CC3000" is used.
 
     $ java -classpath 'bin:resources:lib/*' net.betaengine.smartconfig.desktop.Main
 
+    You run "mDNS listener", "Decoder" and "Smart Config responder" on one Computer.
+    You can run this Desktop UI on another Computer to Simulate the real usage.
+
 Decoder
 -------
 
